@@ -1,0 +1,25 @@
+year: 2010
+month_name: March
+month_day: 16
+day_name: Tuesday
+title: The Non-Sanitized Version
+speaker: Dr. Tim Maher
+
+talk_blurb: |
+    Tim's going to talk about Perl. Aside from that, he'll talk about whatever he
+    wants to talk about. Why? Well, lots of reasons! But he did mention, "What I'd
+    most like to do is show some of the less commonly seen programming examples
+    from my book[1], and tell the more "edgy" versions of the stories that my
+    publisher made me tone down for political correctness (e.g., the non-sanitized
+    version of "The Legend of Nexpr").
+
+    [1] - http://MinimalPerl.com/
+
+speaker_blurb: |
+    Dr. Maher has trekked a remarkable path through life. A few examples
+    include singing (twice) with The Persuasions (a cappella), playing and
+    studying the sitar with Nazir Jairazbhoy in India, writing a top-selling
+    book, teaching as a professor of psychology, and writing and performing
+    "Christmas Break by Rapmaster Scrooge[2]"
+
+    [2] - http://www.youtube.com/watch?v=W-4WfTT98-0

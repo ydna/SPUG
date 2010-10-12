@@ -1,0 +1,32 @@
+year: 2010
+month_name: June
+month_day: 15
+day_name: Tuesday
+title: C'Dent, the Acmeism, and Everyone
+speaker: Ingy dot Net
+
+talk_blurb: |
+ Ingy will give a talk about:
+ 
+  * Acmeism[1] - Programming above programming languages
+  * C'Dent[2] - A portable module programming language
+  * Stardoc[3] - An Acmeist documentation system
+  * TestML[4] - An Acmeist unit test language
+
+ Imagine writing a Perl module, and then uploading it to RubyGems and PyPi and
+ a dozen other language repositories as a native module for that language.
+ C'Dent compiles modules Perl, Python, Ruby and JavaScript modules to many
+ languages. Stardoc reformats POD to many other formats. TestML lets you write
+ one set of tests that all the compiled modules must pass before shipping.
+ 
+ This is the future. This is Acmeism.
+
+ [1] - http://acmeism.org/
+ [2] - http://cdent.org/
+ [3] - http://stardoc.org/
+ [4] - http://testml.org/
+
+speaker_blurb: |
+ Ingy is a Perl, JavaScript and Python module author (so far). Ingy is an
+ Acmeist. He believes that programming languages act as barriers to hacker
+ collaboration, but great hackers push their ideas over the language walls.

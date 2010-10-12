@@ -1,0 +1,61 @@
+    [% month_name %] [% year %] Seattle Perl Users Group (SPUG) Meeting
+    ====================================================
+
+    Topic: [% title %]
+    Speaker: [% speaker %]
+    Meeting Date: [% day_name %], [% month_day %] [% month_name %] [% year %]
+    Meeting Time: 6:30 - 8:30 p.m.
+    Location: Marchex - 520 Pike Street
+
+    Cost: Admission is free and open to the public
+    Info: http://seattleperl.org/
+
+    ====================================================
+
+[% day_name %], [% month_name %] [% month_day %], is the next meeting of the THE SEATTLE PERL USERS GROUP.
+
+This Month's Talk
+-----------------
+
+[% talk_blurb %]
+
+About [% speaker %]
+------[%
+    dash = '-';
+    dash.repeat(speaker.length);
+%]
+
+[% speaker_blurb %]
+
+Pre-Meeting
+===========
+
+If you are so inclined, please come to the pre-meeting at the nearby Elephant
+& Castle pub on 5th & Union (see map link below). Come enjoy some friendly
+conversation and perhaps a favorite beverage (they have a full restaurant
+too). We can usually be found at the back under the TV near the rear entrance
+that goes up into the hotel (if you enter through the front doors, just go
+straight back past the bar). We'll be there from 5:00 pm to 6:19 pm.
+
+Meeting Location
+================
+
+Marchex
+520 Pike Street, Suite 1800
+Seattle, WA  98101
+
+The building is just East of Westlake Center. Enter from Pike Street.
+
+  http://xrl.us/spugmap
+
+Due to all of the shopping around us there is plenty of parking available in
+garages, but it can be hard to find street parking in the evening. There is
+also a parking garage in the building, but check the rates and closing time
+(subject to change due to downtown events)!
+
+Attendees will need to wait near the elevators in the lobby and a Marchex
+employee will provide access to the 18th floor where the meeting room is
+located. If no one shows up to let you in, call (425) 533-2964 to let them
+know you're in the lobby.
+
+See you there! 

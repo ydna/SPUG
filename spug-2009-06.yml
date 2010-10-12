@@ -1,0 +1,23 @@
+year: 2009
+month_name: June
+month_day: 16
+day_name: Tuesday
+title: Git Best Practices and Gotchas
+speaker: Tye McQueen & Dave Olszewski
+
+talk_blurb: |
+    Git Best Practices and Gotches, and some custom tools to help, especially
+    when using Git as a central repository (as is common in a corporate
+    environment). Q+A may be a popular part of the talk.
+
+speaker_blurb: |
+    Tye McQueen is a Sr Perl Dev for WhitePages and absentee landlord of
+    PerlMonks.org, proud author of Acme::ESP and several
+    less important modules.
+
+    Dave Olszewski is a long time perl geek, newfound git geek.  Since being
+    thrust into it, he has seen the light and spent many late nights exploring
+    the strange and dusty corners of this life-altering tool.  To quote a
+    recent visitor to #git: "who would have f* believed you could get an
+    adrenaline rush from a friggin' SCM!"
+

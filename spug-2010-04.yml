@@ -1,0 +1,25 @@
+year: 2010
+month_name: April
+month_day: 20
+day_name: Tuesday
+title: Perl 5.12.0 - Double-click for a martini
+speaker: Josh ben Jore
+
+talk_blurb: |
+    Perl 5.12.0 - Double-Click for a Martini
+     - Features
+     - Deprecations
+     - Modules & Pragmata
+     - Docs
+     - Faster, Better, Smarter
+     - Evil Wizards
+     - Excelsior
+
+speaker_blurb: |
+    Josh ben Jore is a crab wranger according to the internet or a serial
+    presenter at YAPC::NA or a senior engineer at WhitePages.com. He came to
+    Perl because he had to write a CGI appfor a political campaign and he'd
+    heard that Perl was best for that sort of thing. Since then, he's been
+    slacking off by writing or maintaining several dozen CPAN modules. His
+    latest perl-fu has been to shrink the memory usage of some honking big
+    in-memory databases and separately, helping get perl-5.12.0 out the door.

@@ -1,0 +1,21 @@
+year: 2009
+month_name: July
+month_day: 21
+day_name: Tuesday
+title: Test::Mimic, extending Test::MockObject
+speaker: Brendan Roof
+
+talk_blurb: |
+    Brendan has been working on a module tentatively named Test::Mimic. It's
+    an extension to the popular Test::MockObject module used to emulate
+    troublesome interfaces. Essentially, it allows you to record the behavior
+    of a class and then play that behavior back later -- automatically mocking
+    class and object methods. Brendan will cover some examples of how to use
+    the module and discuss some of the more interesting issues related to its
+    design. Feedback is welcome and appreciated!
+
+speaker_blurb: |
+    Brendan is a senior at the University of Washington majoring in computer
+    science and mathematics. He is currently a summer intern at WhitePages
+    where he works with Tye McQueen. He's relatively new to Perl, but likes
+    what he's seen so far.

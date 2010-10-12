@@ -1,0 +1,25 @@
+year: 2010
+month_name: January
+month_day: 19
+day_name: Tuesday
+title: Dumb Simple PostgreSQL Performance
+speaker: Joshua D. Drake
+
+talk_blurb: |
+    NEW MEETING LOCATION
+    
+    Please note that our meeting location has changed. See below for details.
+    
+    A one hour presentation on the essentials on the optimization of
+    PostgreSQL. The talk focuses on hardware, operating system and
+    configuration for the database. Although performance optimization is a
+    life long maintenance for any application, this presentation will allow
+    you to hit the ground running. Specific topics covered are memory
+    configuration, RAID, partitioning, and application specific changes that
+    can be made to help efficiency.
+
+speaker_blurb: |
+    Joshua D. Drake is the lead consultant for Command Prompt, Inc. the oldest
+    PostgreSQL professional services provider in North America. He is also a
+    PostgreSQL.Org Major Contributor, United States PostgreSQL President and a
+    Director for Software in the Public Interest.

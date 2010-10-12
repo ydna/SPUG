@@ -1,0 +1,26 @@
+year: 2008
+month_name: October
+month_day: 21
+day_name: Tuesday
+title: Getting Comfortable with the Perl Precedence Table
+speaker: Tye McQueen
+
+talk_blurb: |
+    Getting Comfortable with the Perl Precedence Table: Help in
+    understanding it, not memorizing it, and making good use of it. The
+    good, the bad, and the ugly of it. And some "best practices"
+    suggestions.
+
+speaker_blurb: |
+    Tye says, of his involvement with Perl, "I have been programming Perl
+    since the last days of Perl 3 but have only recently moved to Seattle to
+    enjoy my first ever paid position as a "Perl Programmer". I have made
+    several small contributions to the Perl source code but am most visible
+    in the Perl community of late as one of the absentee landlords of
+    http://PerlMonks.org/ and as the author and/or absentee landlord of
+    several modules including Win32::TieRegistry, Algorithm::Loops,
+    Algorithm:Diff, Acme::ESP, and Devel::EvalError. With regard to the
+    topic of my talk, I am proud to note that I recently convinced Larry
+    Wall to add one more slot to the Perl 6 precedence table (but my talk is
+    about the Perl 5 precedence table)."
+

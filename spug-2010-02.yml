@@ -1,0 +1,28 @@
+year: 2010
+month_name: February
+month_day: 16
+day_name: Tuesday
+title: DBIx::Class, why and how
+speaker: David Ihnen
+
+talk_blurb: |
+    - Why and how to use DBIx::Class.
+    - How to set up your classes, either DBIx::Class::Loader, or manual configuration.
+    - Class::C3 basics
+    - Creating plugins for inflate
+    - Creating plugins for triggers
+    - Transactions and assumptions regarding AutoCommit and shared handles
+    - Advanced 'Complex Query' workarounds
+    - Application of Null pattern
+
+speaker_blurb: |
+    David Ihnen has over ten years experience with progressively more
+    object-oriented Perl programming. He learned DBIx::Class for the interview
+    questions for a job in Flagstaff, Arizona at a urine analysis lab where he
+    helped build a web-based lab result management system for use by their
+    clients. Now he is back in Seattle at Amazon (for the third time), where
+    he builds test frameworks and untangles the vagaries of complex financial
+    perl scripts. He currently lives in Issaquah with his 15-year partner,
+    Dhugal, and two german shepherd dogs, Akando and Banshee.
+
+    http://dogpawz.com/photos/Akando/AkandoSkylosBanshee.jpg
