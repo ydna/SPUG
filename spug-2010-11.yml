@@ -1,0 +1,22 @@
+year: 2010
+month_name: October
+month_day: 19
+day_name: Tuesday
+title: Introduction Devel::NYTProf
+speaker: Augustina Blair
+
+talk_blurb: |
+    Introduction and demo of using Devel::NYTProf, the state-of-the-art
+    profiler for Perl5 code.
+
+    http://search.cpan.org/dist/Devel-NYTProf/lib/Devel/NYTProf.pm
+
+
+speaker_blurb: |
+    I am a Perl software developer and a technical writer and Linux
+    enthusiast. I have over a decade of computer industry experience in
+    roles that include Web Development, IT Support, System Administration,
+    Release Engineering, and Technical Communications. I'm a co-organizer
+    for the Seattle LinuxChix chapter and a regular attendee at a plethora
+    of other Open Source user groups. In my spare time I knit and tinker
+    with Arduino.
