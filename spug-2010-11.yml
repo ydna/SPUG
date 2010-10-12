@@ -2,11 +2,11 @@ year: 2010
 month_name: October
 month_day: 19
 day_name: Tuesday
-title: Introduction Devel::NYTProf
+title: Introduction to Devel::NYTProf
 speaker: Augustina Blair
 
 talk_blurb: |
-    Introduction and demo of using Devel::NYTProf, the state-of-the-art
+    Introduction to and demo of using Devel::NYTProf, the state-of-the-art
     profiler for Perl5 code.
 
     http://search.cpan.org/dist/Devel-NYTProf/lib/Devel/NYTProf.pm
