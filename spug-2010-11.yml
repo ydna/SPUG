@@ -1,0 +1,20 @@
+year: 2010
+month_name: November
+month_day: 16
+day_name: Tuesday
+title: Social Evening
+speaker: everybody
+
+talk_blurb: |
+    This month we're going to get together and hang out. Suggested
+    topics of conversation are:
+        . What's new with Perl5
+        . Moosin' around
+        . Perl6, Rakudo, Parrot, smop
+        . Processing, Javascript, CLISP
+        . Wiring up some arduinos to do your job for you
+        . Beer
+
+speaker_blurb: |
+    It is said that alcohol loosens the oppressive superego that freud
+    cursed us with.
