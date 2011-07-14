@@ -1,0 +1,26 @@
+year: 2011
+month_name: July
+month_day: 19
+day_name: Tuesday
+title: Log::Lager
+speaker: Mark Swayne
+
+talk_blurb: |
+    Introducing two new modules Log::Lager and Data::Abridge.
+
+    Data::Abridge takes complex Perl data structures and strips them down for easy serialization.
+    Log::Lager - logging rethought, rehashed and restructured.  It was written to support Log::Lager.
+
+    Log::Lager is built on these principles:
+       * logging should be easy to add to code
+       * logs should be easy to process programmatically
+       * logging should be configurable in a running program
+       * logging should be configurable over any subset of a program
+
+    GASP at the amazing design decisions that came from these four principles!
+    SCREAM with frustration when you realize how much time you've wasted configuring complicated log objects!
+    THRILL with pleasure when you see how easy logging can be.
+
+
+speaker_blurb: |
+    Mark Swayne has been programming Perl for a bit over a decade.  He likes it a lot, far more than he likes writing about himself in the third person.  He is known primarily for having memorized more Tom Lehrer lyrics than can possibly be heathy.
